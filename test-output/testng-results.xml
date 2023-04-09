@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-09T09:57:35 IST" name="Login" finished-at="2023-04-09T09:58:22 IST" duration-ms="46866">
+    <groups>
+    </groups>
+    <test started-at="2023-04-09T09:57:35 IST" name="Login_Test" finished-at="2023-04-09T09:58:22 IST" duration-ms="46866">
+      <class name="com.mystore.testcases.TC_LoginPageTestDataDrivenTesting">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@5e0e82ae]" started-at="2023-04-09T09:57:36 IST" name="setup" finished-at="2023-04-09T09:57:43 IST" duration-ms="7091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@5e0e82ae]" started-at="2023-04-09T09:57:48 IST" name="Login" data-provider="LoginDataProvider" finished-at="2023-04-09T09:57:49 IST" duration-ms="1183" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@5e0e82ae]" started-at="2023-04-09T09:57:49 IST" name="Login" data-provider="LoginDataProvider" finished-at="2023-04-09T09:57:49 IST" duration-ms="642" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[problem_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Youtube(java.lang.String)[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@5e0e82ae]" started-at="2023-04-09T09:57:49 IST" name="Youtube" finished-at="2023-04-09T09:58:22 IST" duration-ms="32596" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shiv Shiv Shiv shambhu mahadev shambhu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Youtube -->
+      </class> <!-- com.mystore.testcases.TC_LoginPageTestDataDrivenTesting -->
+    </test> <!-- Login_Test -->
+  </suite> <!-- Login -->
+</testng-results>
