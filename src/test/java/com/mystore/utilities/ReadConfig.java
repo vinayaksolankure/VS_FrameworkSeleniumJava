@@ -9,7 +9,7 @@ public class ReadConfig {
 	Properties properties;
 
 	// Below path is config.properties file path.
-	String path = "E:\\OneDrive\\Desktop\\DemoTest\\Eclipse Workspace\\DemoTestMavenProject\\MyStoreV1\\Configuration\\config.properties";
+	String path = "D:\\Eclipse Project\\Github Projects\\VS_FrameworkSeleniumJava\\Configuration\\config.properties";
 
 	public ReadConfig() {
 		try {

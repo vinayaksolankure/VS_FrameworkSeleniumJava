@@ -73,7 +73,7 @@ public class BaseClass {
 		logger.info("url opened");
 	}
 
-	//@AfterClass
+	@AfterClass
 	public void tearDown()
 	{
 		driver.close();

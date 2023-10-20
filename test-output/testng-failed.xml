@@ -10,8 +10,8 @@
       <class name="com.mystore.testcases.TC_LoginPageTestDataDrivenTesting">
         <methods>
           <include name="setup"/>
-          <include name="Youtube" invocation-numbers="0"/>
-          <include name="Login" invocation-numbers="0 1"/>
+          <include name="Youtube"/>
+          <include name="Login"/>
         </methods>
       </class> <!-- com.mystore.testcases.TC_LoginPageTestDataDrivenTesting -->
     </classes>
