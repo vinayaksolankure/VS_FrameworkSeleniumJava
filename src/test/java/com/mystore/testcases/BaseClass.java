@@ -43,6 +43,7 @@ public class BaseClass {
 			WebDriverManager.chromedriver().setup();
 			ChromeOptions options = new ChromeOptions();
 			options.addArguments("--remote-allow-origins=*");
+			options.setExperimentalOption("excludeSwitches", new String[]{"enable-automation"}); 
 			driver = new ChromeDriver(options);
 			driver.manage().window().maximize();
 			break;

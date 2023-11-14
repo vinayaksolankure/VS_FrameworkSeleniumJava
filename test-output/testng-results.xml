@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-20T16:26:16 IST" name="Login" finished-at="2023-10-20T16:26:57 IST" duration-ms="40664">
+  <suite started-at="2023-11-09T09:42:01 IST" name="Login" finished-at="2023-11-09T09:42:43 IST" duration-ms="41304">
     <groups>
     </groups>
-    <test started-at="2023-10-20T16:26:16 IST" name="Login_Test" finished-at="2023-10-20T16:26:57 IST" duration-ms="40664">
+    <test started-at="2023-11-09T09:42:01 IST" name="Login_Test" finished-at="2023-11-09T09:42:43 IST" duration-ms="41304">
       <class name="com.mystore.testcases.TC_LoginPageTestDataDrivenTesting">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@2b71e916]" started-at="2023-10-20T16:26:16 IST" name="setup" finished-at="2023-10-20T16:26:22 IST" duration-ms="5806" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@2b71e916]" started-at="2023-11-09T09:42:02 IST" name="setup" finished-at="2023-11-09T09:42:07 IST" duration-ms="5137" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@2b71e916]" started-at="2023-10-20T16:26:24 IST" name="Login" data-provider="LoginDataProvider" finished-at="2023-10-20T16:26:25 IST" duration-ms="854" status="PASS">
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@2b71e916]" started-at="2023-11-09T09:42:08 IST" name="Login" data-provider="LoginDataProvider" finished-at="2023-11-09T09:42:09 IST" duration-ms="828" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@2b71e916]" started-at="2023-10-20T16:26:25 IST" name="Login" data-provider="LoginDataProvider" finished-at="2023-10-20T16:26:25 IST" duration-ms="733" status="PASS">
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@2b71e916]" started-at="2023-11-09T09:42:09 IST" name="Login" data-provider="LoginDataProvider" finished-at="2023-11-09T09:42:10 IST" duration-ms="556" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -43,7 +43,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method signature="Youtube(java.lang.String)[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@2b71e916]" started-at="2023-10-20T16:26:25 IST" name="Youtube" finished-at="2023-10-20T16:26:56 IST" duration-ms="30501" status="PASS">
+        <test-method signature="Youtube(java.lang.String)[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@2b71e916]" started-at="2023-11-09T09:42:10 IST" name="Youtube" finished-at="2023-11-09T09:42:41 IST" duration-ms="30841" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -54,7 +54,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Youtube -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@2b71e916]" started-at="2023-10-20T16:26:56 IST" name="tearDown" finished-at="2023-10-20T16:26:57 IST" duration-ms="591" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@2b71e916]" started-at="2023-11-09T09:42:41 IST" name="tearDown" finished-at="2023-11-09T09:42:43 IST" duration-ms="2092" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
