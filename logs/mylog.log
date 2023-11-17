@@ -447,3 +447,19 @@
 [INFO ] 2023-11-09 09:42:29.070 [main] MyStoreV1 - Clicked on search button
 [INFO ] 2023-11-09 09:42:31.113 [main] MyStoreV1 - clicked on song
 [INFO ] 2023-11-09 09:42:41.128 [main] MyStoreV1 - Youtube method passed.
+[INFO ] 2023-11-17 09:10:30.835 [main] MyStoreV1 - url opened
+[INFO ] 2023-11-17 09:10:32.477 [main] MyStoreV1 - Entered Username
+[INFO ] 2023-11-17 09:10:32.595 [main] MyStoreV1 - Entered Password
+[INFO ] 2023-11-17 09:10:32.816 [main] MyStoreV1 - Clicked on Login Button
+[INFO ] 2023-11-17 09:10:32.959 [main] MyStoreV1 - Clicked on menu button
+[INFO ] 2023-11-17 09:10:33.137 [main] MyStoreV1 - Clicked on Logout Button
+[INFO ] 2023-11-17 09:10:33.319 [main] MyStoreV1 - Entered Username
+[INFO ] 2023-11-17 09:10:33.434 [main] MyStoreV1 - Entered Password
+[INFO ] 2023-11-17 09:10:33.564 [main] MyStoreV1 - Clicked on Login Button
+[INFO ] 2023-11-17 09:10:33.704 [main] MyStoreV1 - Clicked on menu button
+[INFO ] 2023-11-17 09:10:33.821 [main] MyStoreV1 - Clicked on Logout Button
+[INFO ] 2023-11-17 09:10:43.344 [main] MyStoreV1 - YouTube url opened
+[INFO ] 2023-11-17 09:10:53.704 [main] MyStoreV1 - Entered songname
+[INFO ] 2023-11-17 09:10:53.907 [main] MyStoreV1 - Clicked on search button
+[INFO ] 2023-11-17 09:10:55.757 [main] MyStoreV1 - clicked on song
+[INFO ] 2023-11-17 09:11:05.795 [main] MyStoreV1 - Youtube method passed.
