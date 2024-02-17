@@ -1,8 +1,10 @@
-E:\OneDrive\Desktop\DemoTest\Eclipse Workspace\DemoTestMavenProject\MyStoreV1\src\test\java\com\mystore\pageobject\Youtube.java
-E:\OneDrive\Desktop\DemoTest\Eclipse Workspace\DemoTestMavenProject\MyStoreV1\src\test\java\com\mystore\testcases\TC_LoginPageTest.java
-E:\OneDrive\Desktop\DemoTest\Eclipse Workspace\DemoTestMavenProject\MyStoreV1\src\test\java\com\mystore\utilities\ExtentReportListenerClass.java
-E:\OneDrive\Desktop\DemoTest\Eclipse Workspace\DemoTestMavenProject\MyStoreV1\src\test\java\com\mystore\utilities\ReadConfig.java
-E:\OneDrive\Desktop\DemoTest\Eclipse Workspace\DemoTestMavenProject\MyStoreV1\src\test\java\com\mystore\testcases\TC_LoginPageTestDataDrivenTesting.java
-E:\OneDrive\Desktop\DemoTest\Eclipse Workspace\DemoTestMavenProject\MyStoreV1\src\test\java\com\mystore\utilities\ReadExcelFile.java
-E:\OneDrive\Desktop\DemoTest\Eclipse Workspace\DemoTestMavenProject\MyStoreV1\src\test\java\com\mystore\pageobject\indexPage.java
-E:\OneDrive\Desktop\DemoTest\Eclipse Workspace\DemoTestMavenProject\MyStoreV1\src\test\java\com\mystore\testcases\BaseClass.java
+D:\Eclipse Project\Github Projects\VS_FrameworkSeleniumJava\src\test\java\com\mystore\utilities\ReadExcelFile.java
+D:\Eclipse Project\Github Projects\VS_FrameworkSeleniumJava\src\test\java\com\mystore\pageobject\Youtube.java
+D:\Eclipse Project\Github Projects\VS_FrameworkSeleniumJava\src\test\java\com\mystore\utilities\ExtentReportListenerClass.java
+D:\Eclipse Project\Github Projects\VS_FrameworkSeleniumJava\src\test\java\com\mystore\testcases\jdbcconnection.java
+D:\Eclipse Project\Github Projects\VS_FrameworkSeleniumJava\src\test\java\com\mystore\testcases\JDBCTestCase.java
+D:\Eclipse Project\Github Projects\VS_FrameworkSeleniumJava\src\test\java\com\mystore\testcases\TC_LoginPageTestDataDrivenTesting.java
+D:\Eclipse Project\Github Projects\VS_FrameworkSeleniumJava\src\test\java\com\mystore\utilities\ReadConfig.java
+D:\Eclipse Project\Github Projects\VS_FrameworkSeleniumJava\src\test\java\com\mystore\testcases\TC_LoginPageTest.java
+D:\Eclipse Project\Github Projects\VS_FrameworkSeleniumJava\src\test\java\com\mystore\testcases\BaseClass.java
+D:\Eclipse Project\Github Projects\VS_FrameworkSeleniumJava\src\test\java\com\mystore\pageobject\indexPage.java
