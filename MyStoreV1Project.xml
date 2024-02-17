@@ -8,8 +8,8 @@
 		<parameter name="SongName" value="Shiv Shiv Shiv shambhu mahadev shambhu"></parameter>
 		<classes>
 			<!--class name="com.mystore.testcases.TC_LoginPageTest"/-->
-			<!--class name="com.mystore.testcases.TC_LoginPageTestDataDrivenTesting" /-->
-			<class name="com.mystore.testcases.JDBCTestCase" />
+			<class name="com.mystore.testcases.TC_LoginPageTestDataDrivenTesting" />
+			<!--class name="com.mystore.testcases.JDBCTestCase" /-->
 		</classes>
 	</test> <!-- Login_Test -->
 </suite> <!-- Login -->

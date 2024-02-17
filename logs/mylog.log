@@ -640,3 +640,19 @@
 [INFO ] 2024-02-16 13:14:41.900 [main] MyStoreV1 - Entered Username
 [INFO ] 2024-02-16 13:14:42.046 [main] MyStoreV1 - Entered Password
 [INFO ] 2024-02-16 13:14:42.273 [main] MyStoreV1 - Clicked on Login Button
+[INFO ] 2024-02-17 09:05:35.393 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-17 09:05:37.318 [main] MyStoreV1 - Entered Username
+[INFO ] 2024-02-17 09:05:37.451 [main] MyStoreV1 - Entered Password
+[INFO ] 2024-02-17 09:05:37.696 [main] MyStoreV1 - Clicked on Login Button
+[INFO ] 2024-02-17 09:05:37.868 [main] MyStoreV1 - Clicked on menu button
+[INFO ] 2024-02-17 09:05:38.115 [main] MyStoreV1 - Clicked on Logout Button
+[INFO ] 2024-02-17 09:05:38.291 [main] MyStoreV1 - Entered Username
+[INFO ] 2024-02-17 09:05:38.423 [main] MyStoreV1 - Entered Password
+[INFO ] 2024-02-17 09:05:38.565 [main] MyStoreV1 - Clicked on Login Button
+[INFO ] 2024-02-17 09:05:38.686 [main] MyStoreV1 - Clicked on menu button
+[INFO ] 2024-02-17 09:05:38.864 [main] MyStoreV1 - Clicked on Logout Button
+[INFO ] 2024-02-17 09:05:48.813 [main] MyStoreV1 - YouTube url opened
+[INFO ] 2024-02-17 09:05:59.216 [main] MyStoreV1 - Entered songname
+[INFO ] 2024-02-17 09:05:59.497 [main] MyStoreV1 - Clicked on search button
+[INFO ] 2024-02-17 09:06:01.797 [main] MyStoreV1 - clicked on song
+[INFO ] 2024-02-17 09:06:11.814 [main] MyStoreV1 - Youtube method passed.
