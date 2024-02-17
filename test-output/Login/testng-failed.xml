@@ -7,13 +7,13 @@
   <test thread-count="5" name="Login_Test(failed)">
     <parameter name="SongName" value="Shiv Shiv Shiv shambhu mahadev shambhu"/>
     <classes>
-      <class name="com.mystore.testcases.JDBCTestCase">
+      <class name="com.mystore.testcases.TC_LoginPageTestDataDrivenTesting">
         <methods>
           <include name="tearDown"/>
-          <include name="Login"/>
           <include name="setup"/>
+          <include name="Youtube" invocation-numbers="0"/>
         </methods>
-      </class> <!-- com.mystore.testcases.JDBCTestCase -->
+      </class> <!-- com.mystore.testcases.TC_LoginPageTestDataDrivenTesting -->
     </classes>
   </test> <!-- Login_Test(failed) -->
 </suite> <!-- Failed suite [Login] -->

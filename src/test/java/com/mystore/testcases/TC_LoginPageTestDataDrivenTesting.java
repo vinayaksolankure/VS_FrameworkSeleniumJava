@@ -1,7 +1,10 @@
 package com.mystore.testcases;
 
 import java.io.IOException;
+import java.time.Duration;
 
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Parameters;
@@ -41,7 +44,7 @@ public class TC_LoginPageTestDataDrivenTesting extends BaseClass {
 		// open url
 		driver.get(utubeURL);
 		logger.info("YouTube url opened");
-		Thread.sleep(10000);
+		//Thread.sleep(10000);
 
 		Youtube yt = new Youtube(driver);
 		yt.enterInSearchBar(SongName);
@@ -50,10 +53,12 @@ public class TC_LoginPageTestDataDrivenTesting extends BaseClass {
 		logger.info("Clicked on search button");
 		yt.clickOnSong();
 		logger.info("clicked on song");
-		Thread.sleep(10000);
+		//Thread.sleep(10000);
 
-		String title = driver.getTitle();
 		String expectedTitle = "शिव शिव शंभो महादेव शंभो... shiv shiv Shambhu Mahadev Shambhu... - YouTube";
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		wait.until(ExpectedConditions.titleContains(expectedTitle));
+		String title = driver.getTitle();
 
 		if(title.equals(expectedTitle))
 		{
