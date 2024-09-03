@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Login">
+	<listeners>
+		<listener class-name="com.mystore.utilities.ExtentReportListenerClass"></listener>
+	</listeners>
+	<test thread-count="5" name="Login_Test">
+		<parameter name="SongName" value="Shiv Shiv Shiv shambhu mahadev shambhu"></parameter>
+		<classes>
+			<class name="com.mystore.testcases.TC_LoginPageTest"/>
+			<!--class name="com.mystore.testcases.TC_LoginPageTestDataDrivenTesting" /-->
+			<!--class name="com.mystore.testcases.JDBCTestCase" /-->
+		</classes>
+	</test> <!-- Login_Test -->
+</suite> <!-- Login -->

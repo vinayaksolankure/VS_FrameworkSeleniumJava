@@ -1,49 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-17T11:12:01 IST" name="Login" finished-at="2024-02-17T11:12:24 IST" duration-ms="22880">
+  <suite started-at="2024-09-03T10:39:35 IST" name="Login" finished-at="2024-09-03T10:40:17 IST" duration-ms="41966">
     <groups>
     </groups>
-    <test started-at="2024-02-17T11:12:01 IST" name="Login_Test" finished-at="2024-02-17T11:12:24 IST" duration-ms="22880">
-      <class name="com.mystore.testcases.TC_LoginPageTestDataDrivenTesting">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@662ac478]" started-at="2024-02-17T11:12:02 IST" name="setup" finished-at="2024-02-17T11:12:07 IST" duration-ms="4676" status="PASS">
+    <test started-at="2024-09-03T10:39:35 IST" name="Login_Test" finished-at="2024-09-03T10:40:17 IST" duration-ms="41966">
+      <class name="com.mystore.testcases.TC_LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_LoginPageTest@3cd3e762]" started-at="2024-09-03T10:39:36 IST" name="setup" finished-at="2024-09-03T10:39:44 IST" duration-ms="7549" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@662ac478]" started-at="2024-02-17T11:12:08 IST" name="Login" data-provider="LoginDataProvider" finished-at="2024-02-17T11:12:09 IST" duration-ms="986" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[standard_user]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[secret_sauce]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="Login()[pri:0, instance:com.mystore.testcases.TC_LoginPageTest@3cd3e762]" started-at="2024-09-03T10:39:44 IST" name="Login" finished-at="2024-09-03T10:39:44 IST" duration-ms="690" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@662ac478]" started-at="2024-02-17T11:12:09 IST" name="Login" data-provider="LoginDataProvider" finished-at="2024-02-17T11:12:10 IST" duration-ms="699" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[problem_user]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[secret_sauce]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Login -->
-        <test-method signature="Youtube(java.lang.String)[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@662ac478]" started-at="2024-02-17T11:12:10 IST" name="Youtube" finished-at="2024-02-17T11:12:23 IST" duration-ms="13719" status="PASS">
+        <test-method signature="Youtube(java.lang.String)[pri:0, instance:com.mystore.testcases.TC_LoginPageTest@3cd3e762]" started-at="2024-09-03T10:39:44 IST" name="Youtube" finished-at="2024-09-03T10:40:17 IST" duration-ms="32249" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -54,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Youtube -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_LoginPageTestDataDrivenTesting@662ac478]" started-at="2024-02-17T11:12:23 IST" name="tearDown" finished-at="2024-02-17T11:12:24 IST" duration-ms="951" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_LoginPageTest@3cd3e762]" started-at="2024-09-03T10:40:17 IST" name="tearDown" finished-at="2024-09-03T10:40:17 IST" duration-ms="742" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.mystore.testcases.TC_LoginPageTestDataDrivenTesting -->
+      </class> <!-- com.mystore.testcases.TC_LoginPageTest -->
     </test> <!-- Login_Test -->
   </suite> <!-- Login -->
 </testng-results>
